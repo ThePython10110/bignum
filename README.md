@@ -5,9 +5,7 @@ I did not write this code; it came from [here](https://github.com/RoStrap/Math/b
 
 The documentation can be found [here](https://rostrap.github.io/Libraries/Math/BigNum/).
 
-License for original code: MIT
-
-License for this mod: GPLv3+
+License: MIT
 
 #### Links
 * [Forum topic](https://forum.minetest.net/viewtopic.php?t=30361)
